@@ -7,9 +7,9 @@ global.autoReadAll = false
 global.antitags = true
 
 
-global.Owner = ['94714789596']
-global.OwnerNumber = ['94714789596']
-global.ownertag = ['94714789596']
+global.Owner = ['+1 (332) 333-9370']
+global.OwnerNumber = ['+1 (332) 333-9370']
+global.ownertag = ['+1 (332) 333-9370']
 global.BotName = "Miku"
 global.packname = "Miku bot"
 global.author = "By: Fantox"
@@ -24,7 +24,7 @@ global.prefa = ['-']
 
 
 global.location = "West Bengal, India"
-global.reactmoji = "❤️"
+global.reactmoji = "⚠️️"
 global.themeemoji = "💖"
 global.vidmenu = { url: 'https://c.tenor.com/YGuLegQWubwAAAPo/miku-nakano-gotoubun-no-hanayome.mp4' }
 global.websitex = "https://github.com/FantoX001"
